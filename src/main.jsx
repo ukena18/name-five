@@ -13,7 +13,37 @@ const PROMPTS = [
   ['things that improve with age', 'ideas'], ['things worth waiting for', 'ideas'], ['things that make people curious', 'ideas'], ['things that are hard to explain', 'ideas'], ['things that feel like freedom', 'ideas'],
   ['things found in a backpack', 'everyday'], ['things with buttons', 'everyday'], ['things smaller than your hand', 'everyday'], ['things that need charging', 'everyday'], ['things that come in pairs', 'everyday'],
   ['animals with unusual movement', 'nature'], ['things that grow quickly', 'nature'], ['things found near water', 'nature'], ['things that change with the seasons', 'nature'], ['things with a shell', 'nature'],
-  ['ways to say “happy” without saying it', 'words'], ['words that sound fast', 'words'], ['ways to describe the color blue', 'words'], ['words that feel cozy', 'words'], ['ways to describe a storm', 'words']
+  ['ways to say “happy” without saying it', 'words'], ['words that sound fast', 'words'], ['ways to describe the color blue', 'words'], ['words that feel cozy', 'words'], ['ways to describe a storm', 'words'],
+
+  ['things that feel fuzzy', 'texture'], ['things that are slippery when wet', 'texture'], ['things with sharp edges', 'texture'], ['things that feel bumpy', 'texture'], ['things that are soft enough to sleep on', 'texture'],
+  ['things that can be smooth', 'texture'], ['things covered in tiny holes', 'texture'], ['things that feel grainy', 'texture'], ['things that can be squishy', 'texture'], ['things with a hard outer layer', 'texture'],
+
+  ['places where people whisper', 'places'], ['places where you need a ticket', 'places'], ['places that stay open late', 'places'], ['places where you might see uniforms', 'places'], ['places with colorful signs', 'places'],
+  ['places you would visit on a rainy day', 'places'], ['places where food is made', 'places'], ['places that feel crowded', 'places'], ['places with a great view', 'places'], ['places where you must wait your turn', 'places'],
+
+  ['things shaped like a circle', 'sight'], ['things with more than one color', 'sight'], ['things that look different from far away', 'sight'], ['things that cast interesting shadows', 'sight'], ['things that can be enormous', 'sight'],
+  ['things that are easy to overlook', 'sight'], ['things that look fragile', 'sight'], ['things that change color', 'sight'], ['things with repeating patterns', 'sight'], ['things that look better at night', 'sight'],
+
+  ['sounds you hear in a kitchen', 'sound'], ['things that make a clicking sound', 'sound'], ['sounds that signal danger', 'sound'], ['sounds you hear from far away', 'sound'], ['things that make people cover their ears', 'sound'],
+  ['sounds that make you smile', 'sound'], ['things that sound different when empty', 'sound'], ['sounds you hear in nature', 'sound'], ['things that make a crackling sound', 'sound'], ['sounds that tell you someone is nearby', 'sound'],
+
+  ['things that smell fresh', 'senses'], ['foods that are crunchy', 'senses'], ['things that can taste bitter', 'senses'], ['things that feel warm and comforting', 'senses'], ['things with a strong smell', 'senses'],
+  ['foods that are creamy', 'senses'], ['things that feel good on tired feet', 'senses'], ['flavors that remind you of childhood', 'senses'], ['things that smell better outdoors', 'senses'], ['foods with more than one texture', 'senses'],
+
+  ['things you can twist', 'action'], ['things that slide', 'action'], ['things you can tie', 'action'], ['things that melt', 'action'], ['things you can balance', 'action'],
+  ['things that move in a zigzag', 'action'], ['things you can tear by hand', 'action'], ['things that float', 'action'], ['things you can unlock', 'action'], ['things that move without being touched', 'action'],
+
+  ['things that require courage', 'ideas'], ['things that make time feel slow', 'ideas'], ['things people often forget', 'ideas'], ['things that can bring people together', 'ideas'], ['things that feel like an adventure', 'ideas'],
+  ['things that make a good surprise', 'ideas'], ['things that are difficult to share', 'ideas'], ['things that make a house feel like home', 'ideas'], ['things that can change your mind', 'ideas'], ['things that deserve more attention', 'ideas'],
+
+  ['things found in a junk drawer', 'everyday'], ['things you keep near the front door', 'everyday'], ['things with a handle', 'everyday'], ['things that use batteries', 'everyday'], ['things you replace often', 'everyday'],
+  ['things found under a bed', 'everyday'], ['things you might borrow from a neighbor', 'everyday'], ['things that can fit in a pocket', 'everyday'], ['things with a screen', 'everyday'], ['things people collect', 'everyday'],
+
+  ['things that grow underground', 'nature'], ['animals that are active at night', 'nature'], ['things carried by the wind', 'nature'], ['things found on a forest floor', 'nature'], ['animals with natural camouflage', 'nature'],
+  ['things that need sunlight', 'nature'], ['things that happen before a storm', 'nature'], ['animals that build homes', 'nature'], ['things found in a desert', 'nature'], ['signs that spring is arriving', 'nature'],
+
+  ['ways to describe a friendly voice', 'words'], ['words that suggest something is enormous', 'words'], ['ways to describe slow movement', 'words'], ['words that feel energetic', 'words'], ['ways to describe an old building', 'words'],
+  ['words for a very small amount', 'words'], ['ways to describe a delicious meal', 'words'], ['words that suggest mystery', 'words'], ['ways to describe someone who is brave', 'words'], ['words that make a place sound inviting', 'words']
 ];
 
 const COLORS = ['coral', 'blue', 'gold', 'purple', 'green'];

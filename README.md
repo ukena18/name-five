@@ -1,6 +1,6 @@
 # Name Five
 
-A mobile-first quick-thinking game built with React and Vite. It is a Progressive Web App (PWA), so players can install it directly from Chrome without an app store.
+A mobile-first quick-thinking game with 150 prompt cards, built with React and Vite. It is a Progressive Web App (PWA), so players can install it directly from Chrome without an app store.
 
 ## Run locally
 
